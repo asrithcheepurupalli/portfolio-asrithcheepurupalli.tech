@@ -1,0 +1,22 @@
+{
+  "name": "Asrith Cheepurupalli - Full-Stack Developer",
+  "short_name": "Asrith C",
+  "description": "Full-Stack Developer specializing in Python, React, and AI workflows",
+  "icons": [
+    {
+      "src": "/ACheepurupalli.jpg",
+      "sizes": "any",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/ACheepurupalli.jpg",
+      "sizes": "any",
+      "type": "image/jpeg"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
