@@ -12,10 +12,13 @@ this isn't exactly a portfolio.
 it's more like a trail of things i've tried building.
 ```
 
-**website:**  
+**website:**
 https://asrithcheepurupalli.tech
 
-**github:**  
+**studio:**
+https://made-by-ac.com
+
+**github:**
 https://github.com/asrithcheepurupalli
 
 ---
@@ -41,16 +44,38 @@ trying to do:
 ---
 
 ```bash
-$ ls projects
+$ ls core/
 
-ai-debug-assistant
-cloud-url-shortener
+supermind.        # a second brain that lives on your device -> supermind.ink
+airlock           # privacy firewall for AI -> airlock.made-by-ac.com
+made.class        # school OS for india -> class.made-by-ac.com
+stash             # local-first AI memory -> stash.made-by-ac.com
+```
+
+```bash
+$ ls projects/
+
+cricadda          # turf cricket scores on the big screen
+karu.theartisian  # story-first marketplace for indian art
+hindsight.        # a time-shifted live mirror
+healthily         # a body-signal journal
+adda              # a playful social map of your city
+intent-action-parser
+curiosity.
+index.-experiment
+```
+
+```bash
+$ ls archive/ --2025
+
+debug-assistant
+cloud-shortener
 screen2md
-flask-blog
+flask-cicd-app
 totp-cli
 ```
 
-Explore the projects here:  
+Explore everything here:
 https://github.com/asrithcheepurupalli
 
 ---
@@ -58,43 +83,21 @@ https://github.com/asrithcheepurupalli
 ```bash
 $ interests
 
+local-first software
+privacy tech that actually runs on-device
+systems for schools and cities
 ai-assisted developer tools
-strange internet utilities
-automation scripts
-knowledge organization systems
 tiny tools that remove friction
 ```
 
 ---
 
 ```bash
-$ currently-curious-about
+$ currently
 
-ai-assisted debugging
-tools that turn screenshots into knowledge
-developer workflow automation
-unusual web projects
-```
-
----
-
-```bash
-$ experiments_that_might_break
-
-ai tools explaining why code broke
-automatic knowledge archives
-tiny developer assistants
-```
-
----
-
-```bash
-$ unfinished_ideas
-
-internet knowledge archaeologist
-stack trace explainers
-automatic research notebooks
-small ai copilots
+building made.class
+shipping supermind.
+exploring airlock
 ```
 
 ---

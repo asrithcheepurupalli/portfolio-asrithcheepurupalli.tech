@@ -1,79 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml"
-        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://asrithcheepurupalli.codes/</loc>
-    <lastmod>2026-03-15</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://asrithcheepurupalli.tech/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://asrithcheepurupalli.codes/ACheepurupalli.jpg</image:loc>
-      <image:title>Asrith Cheepurupalli - Full-Stack Developer</image:title>
-      <image:caption>Professional photo of Asrith Cheepurupalli</image:caption>
+      <image:loc>https://asrithcheepurupalli.tech/acheepurupalli.jpg</image:loc>
+      <image:title>Asrith Cheepurupalli</image:title>
+      <image:caption>Asrith Cheepurupalli logo mark</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/projects</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://asrithcheepurupalli.tech/projects</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/blog</loc>
-    <lastmod>2026-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://asrithcheepurupalli.codes/resume</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://asrithcheepurupalli.tech/vibe</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/vibe</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://asrithcheepurupalli.tech/blog</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/contact</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://asrithcheepurupalli.tech/resume</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://asrithcheepurupalli.tech/contact</loc>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/blog/requests-last-24-hours</loc>
+    <loc>https://asrithcheepurupalli.tech/blog/requests-last-24-hours</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/blog/ai-debugging-future</loc>
+    <loc>https://asrithcheepurupalli.tech/blog/ai-debugging-future</loc>
     <lastmod>2024-01-15</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/blog/building-with-fastapi</loc>
+    <loc>https://asrithcheepurupalli.tech/blog/building-with-fastapi</loc>
     <lastmod>2024-01-10</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/blog/automation-workflows</loc>
+    <loc>https://asrithcheepurupalli.tech/blog/automation-workflows</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://asrithcheepurupalli.codes/blog/react-performance-tips</loc>
+    <loc>https://asrithcheepurupalli.tech/blog/react-performance-tips</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>

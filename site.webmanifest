@@ -1,20 +1,15 @@
 {
-  "name": "Asrith Cheepurupalli - Full-Stack Developer",
-  "short_name": "Asrith C",
-  "description": "Full-Stack Developer specializing in Python, React, and AI workflows",
+  "name": "Asrith Cheepurupalli",
+  "short_name": "asrith c.",
+  "description": "Builder of local-first tools, AI privacy tech and products for schools and cities. Founder of made. by ac.",
   "icons": [
     {
-      "src": "/ACheepurupalli.jpg",
-      "sizes": "any",
-      "type": "image/jpeg"
-    },
-    {
-      "src": "/ACheepurupalli.jpg",
-      "sizes": "any",
+      "src": "/acheepurupalli.jpg",
+      "sizes": "1024x1024",
       "type": "image/jpeg"
     }
   ],
-  "theme_color": "#000000",
+  "theme_color": "#0c0c0c",
   "background_color": "#ffffff",
   "display": "standalone",
   "start_url": "/",
